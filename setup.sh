@@ -36,7 +36,7 @@ setup_rootfs(){
             echo "unknown architecture"; exit 1 ;;
     esac
 
-    base_url="https://kali.download/nethunter-images/current/rootfs/kalifs-${archtype}-minimal.tar.xz"
+    base_url="https://kali.download/nethunter-images/current/rootfs/kalifs-${archtype}-full.tar.xz"
 rootfs_file="kalifs-${archtype}-full.tar.xz"
 
 if [ -f "$rootfs_file" ]; then
