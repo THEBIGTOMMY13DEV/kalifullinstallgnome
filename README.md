@@ -30,6 +30,7 @@
    - `cd kalifullinstallgnome`
    - `bash setup.sh`
    - `kali`
+   - `vi /etc/resolv.conf`
    - `bash gui.sh`
    - Now select **KFCE**, **KDE**, **LXDE**, **LXQT** OR **GNOME** Desktop (any one)
 
