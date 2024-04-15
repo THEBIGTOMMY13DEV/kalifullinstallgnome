@@ -26,7 +26,7 @@
 
    - `pkg update -y && pkg upgrade -y`
    - `pkg install git wget -y`
-   - `git clone https://github.com/sabamdarif/modded-kali`
+   - `git clone https://github.com/THEBIGTOMMY13DEV/kalifullinstallgnome`
    - `cd modded-kali`
    - `bash setup.sh`
    - `kali`
